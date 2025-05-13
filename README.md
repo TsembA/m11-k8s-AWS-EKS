@@ -1,4 +1,4 @@
-# 11 - Kubernetes on AWS: EKS
+# Kubernetes on AWS: EKS
 
 ## 🐳 ECS (Elastic Container Service)
 
